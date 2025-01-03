@@ -6,33 +6,33 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "address": "TGZEXC7y4mMpTMaTonXcGKH9iGoSxnukdx",
+      "symbol": "KMH",
+      "name": "KUMBH",
+      "decimals": 18,
+      "logoURI": "https://kumbh.co.in/image/maha_logo.png",
+      "homepage": "https://kumbh.co.in/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/kumbh/",
       "existingMarkets": [
           {
               "source": "Binance",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "KMH/USDT",
+                  "KMH/BUSD",
+                  "KMH/BNB",
+                  "KMH/USDC"
               ]
           },
           {
               "source": "Poloniex",
               "pairs": [
-                  "WIN/USDT"
+                  "KMH/USDT"
               ]
           },
           {
               "source": "KuCoin",
               "pairs": [
-                  "WIN/USDT"
+                  "KMH/USDT"
               ]
           }
     ]
